@@ -1,2 +1,2 @@
 # Intro-DS-Python
-Intro to Data Science in Python - UMich for Coursera
+Doing this course to rehearse & build on good practices I learned in undergrad
